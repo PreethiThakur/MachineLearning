@@ -1,1 +1,1 @@
-This repository has tutoriols on Macine Learning topics
+This repository has tutorial notebooks on Machine Learning topics
